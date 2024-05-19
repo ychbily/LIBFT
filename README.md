@@ -33,3 +33,11 @@ make
 The library contains the following fucntions:
 
 ### Functions from <ctype.h>
+
+- [`ft_isalpha`](#ft_isalpha): - checks for an alphabetic character.
+- ft_isdigit - checks for a digit (0 through 9).
+ft_isalnum - checks for an alphanumeric character.
+ft_isascii - checks whether c fits into the ASCII character set.
+ft_isprint - checks for any printable character.
+ft_toupper - convert char to uppercase.
+ft_tolower - convert char to lowercase.
