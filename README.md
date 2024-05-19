@@ -35,7 +35,7 @@ The library contains the following fucntions:
 ### Functions from <ctype.h>
 
 - [`ft_isalpha`](libft/ft_isalpha.c) - checks for an alphabetic character.
-- ft_isdigit - checks for a digit (0 through 9).
+- [`ft_isdigit`](libft/ft_isdigit.c) - checks for a digit (0 through 9).
 ft_isalnum - checks for an alphanumeric character.
 ft_isascii - checks whether c fits into the ASCII character set.
 ft_isprint - checks for any printable character.
