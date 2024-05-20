@@ -1,5 +1,3 @@
-# LIBFT - Custom Standard C Library
-
 ###
 
 <p align="center">
@@ -9,6 +7,10 @@
 <p align="center">
   <img src="else/libftm.png" alt="libft_badge"/>
 </p>
+<h1 align="center">
+ 42 Project - LIBFT - Custom Standard C Library
+</h1>
+
 
 ## Overview
 
