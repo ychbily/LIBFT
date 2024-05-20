@@ -4,11 +4,11 @@
 <p align="center">
   <img src="badges/libftm.png" alt="libft_badge"/>
 </p>
-###
+
 <p align="center">
   <img src="covers/cover-libft-bonus.png" alt="cover libft bonus"/>
 </p>
-###
+
 ## Overview
 
 LIBFT is a custom implementation of several standard C library functions, as well as additional utility functions. It is designed to provide a set of fundamental tools for C programming, enabling developers to work more efficiently by implementing common functionalities themselves.
