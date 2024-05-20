@@ -2,11 +2,11 @@
 
 ###
 <p align="center">
-  <img src="badges/libftm.png" alt="libft_badge"/>
+  <img src="else/libftm.png" alt="libft_badge"/>
 </p>
 
 <p align="center">
-  <img src="covers/cover-libft-bonus.png" alt="cover libft bonus"/>
+  <img src="else/cover-libft-bonus.png" alt="cover libft bonus"/>
 </p>
 
 ## Overview
